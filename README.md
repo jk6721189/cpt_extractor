@@ -1,25 +1,25 @@
-# cpt_extractor
-This automation extract CPT code from encoder pro.
-Extracted code example:
+# cpt_extractor <br />
+This automation extract CPT code from encoder pro. <br />
+Extracted code example: <br />
 
-{
-    "range": "10021-10012",
-    "code_description": [
-        "Official: 10004 Fine needle aspiration biopsy, without imaging guidance; each additional lesion (List separately in addition to code for primary procedure)",
-        "Consumer Friendly Full: Removal of body fluid or tissue by aspiration (suction) using a fine needle.",
-        "Consumer Friendly Short: Sample tissue using a needle"
-    ],
-    "color_codes": "Resequenced Code Add-on Code ASC Payment Indicator - N1 Packaged service/item; no separate payment made. Assist-at-Surgery Allowed With Documentation Medically Unlikely Edits",
-    "codingtip": "Coding Tip When these codes are performed with another separately identifiable procedure, the highest dollar value code is listed as the primary procedure and subsequent procedures are appended with modifier 51. If multiple areas are aspirated, report 10004\u201310012 and 10021 for each site taken and append modifier 59 or an X{EPSU} modifier to the additional codes. For evaluation of fine needle aspirate, see 88172\u201388173. For percutaneous placement of a localization device during breast biopsy, see 19081\u201319086. For percutaneous needle biopsy, muscle, see 20206; lung or mediastinum and pleura, see 32408; salivary gland, see 42400; liver, see 47000; pancreas, see 48102; abdominal or retroperitoneal mass, see 49180; kidney, see 50200; and thyroid, see 60100. For percutaneous image-guided fluid collection drainage of soft tissue via catheter, see 10030.  If biopsies are performed on two or more lesions during the same session using the same imaging source, report the appropriate imaging code for the second and subsequent lesions; if using a different imaging source, report the additional add-on lesion biopsy codes and the code for each separate imaging source used. When FNA biopsy and core needle biopsies are performed during the same session on separate lesions using the same imaging source, both the core needle biopsy and the imaging guidance are reported separately using modifier 59. When FNA biopsy and core needle biopsies are performed during the same session on separate lesions using a different imaging source, both the core needle biopsy and the imaging guidance are reported separately using modifier 59. Report 10004 in addition to 10021; 10006 in addition to 10005; 10008 in addition to 10007; 10010 in addition to 10009; and 10012 in addition to 10011. Do not report 10004 or 10021 with 10005\u201310012. Imaging guidance codes 76942, 77002, 77012, and 77021 should not be reported separately. For evaluation of fine needle aspirate, see 88172\u201388173 and 88177. For image-guided percutaneous fluid collection drainage of soft tissue via catheter, see 10030.  Documentation Tip No Documentation Tip available for this code. Reimbursement Tip No Reimbursement Tip available for this code.",
-    "lay_description": "Fine needle aspiration (FNA) is a diagnostic percutaneous procedure that uses a fine gauge needle (often 22 or 25 gauge) and a syringe to sample fluid from a cyst or remove clusters of cells from a solid mass. The skin is cleansed. If a lump can be felt, the radiologist or surgeon guides a needle into the area by palpating the lump. If the lump is non-palpable, the FNA procedure is performed using ultrasound, fluoroscopy, computed tomography (CT), or MR imaging with the patient positioned according to the area of concern. Ultrasonography-guided aspiration biopsy involves inserting an aspiration catheter needle device through the accessory channel port of the echoendoscope; the needle is placed into the area to be sampled under endoscopic ultrasonographic guidance. After the needle is placed into the region of the lesion, a vacuum is created and multiple in and out needle motions are performed. Several needle insertions are usually required to ensure that an adequate tissue sample is taken. In fluoroscopic guidance, intermittent fluoroscopy guides the advancement of the needle. CT image guidance allows computer-assisted targeting of the area to be sampled. At the completion of the procedure, the needle is withdrawn and a small bandage is placed over the area. MR image guidance involves the use of a magnetic field, radiowaves, and computer-assisted targeting to identify the area for biopsy without the use of ionizing radiation. Report 10021 for fine needle aspiration of the initial lesion performed without imaging guidance; for each subsequent lesion, report 10004. Report 10005 for FNA of the first lesion using ultrasound guidance; for each additional lesion, report 10006. Report 10007 for FNA of the first lesion using fluoroscopy; for each additional lesion, report 10008. Report 10009 for FNA of the first lesion utilizing CT imaging; for each subsequent lesion, report 10010. Report 10011 when MR imaging is used for the initial lesion; for each additional lesion, report 10012.",
-    "code_specific_reference_information": "AHA Coding Clinic References AMA CPT\u00ae Knowledge Base AMA CPT\u00ae Section Guidelines Annotations Clinical Documentation Improvement Content Instructions Optum Specialty Articles Primary Px Total CPT\u00ae ZHealth Publishing Interventional Radiology Coding Reference",
-    "code_range_notes": "INCLUDES: Core needle biopsy, lung or mediastinum (32408) Percutaneous localization clip placement during breast biopsy (19081-19086) Percutaneous needle biopsy:    Abdominal or retroperitoneal mass (49180)    Epididymis (54800)    Kidney (50200)    Liver (47000-47001)    Lymph node (38505)    Muscle (20206)    Nucleus pulposus, paravertebral tissue, intervertebral disc (62267)    Pancreas (48102)    Pleura (32400)    Prostate (55700, 55706)    Salivary gland (42400)    Spinal cord (62269)    Testis (54500)    Thyroid (60100) Soft tissue percutaneous fluid drainage by catheter using image guidance (10030) Thyroid cyst (60300)  EXCLUDES:  ",
-    "code_notes": "  ",
-    "code_history": "Change Effective Date:01/01/2019\nChange Summary:Officially recognized, Other, New",
-    "emca_doc_id": "",
-    "audr_doc_id": "506682",
-    "modifiers": {
-        "physician": [
+{<br />
+    "range": "10021-10012",<br />
+    "code_description": [<br />
+        "Official: 10004 Fine needle aspiration biopsy, without imaging guidance; each additional lesion (List separately in addition to code for primary procedure)",<br />
+        "Consumer Friendly Full: Removal of body fluid or tissue by aspiration (suction) using a fine needle.",<br />
+        "Consumer Friendly Short: Sample tissue using a needle"<br />
+    ],<br />
+   <br /> "color_codes": "Resequenced Code Add-on Code ASC Payment Indicator - N1 Packaged service/item; no separate payment made. Assist-at-Surgery Allowed With Documentation Medically Unlikely Edits",<br />
+   <br /> "codingtip": "Coding Tip When these codes are performed with another separately identifiable procedure, the highest dollar <br />value code is listed as the primary procedure and subsequent procedures are appended with modifier 51. If multiple areas are <br />aspirated, report 10004\u201310012 and 10021 for each site taken and append modifier 59 or an X{EPSU} modifier to the additional <br />codes. For evaluation of fine needle aspirate, see 88172\u201388173. For percutaneous placement of a localization device during breast <br />biopsy, see 19081\u201319086. For percutaneous needle biopsy, muscle, see 20206; lung or mediastinum and pleura, see 32408; <br />salivary gland, see 42400; liver, see 47000; pancreas, see 48102; abdominal or retroperitoneal mass, see 49180; kidney, see 50200; and <br />thyroid, see 60100. For percutaneous image-guided fluid collection drainage of soft tissue via catheter, see 10030.  If biopsies <br />are performed on two or more lesions during the same session using the same imaging source, report the appropriate imaging code <br />for the second and subsequent lesions; if using a different imaging source, report the additional add-on lesion biopsy codes and <br />the code for each separate imaging source used. When FNA biopsy and core needle biopsies are performed during the same session on <br />separate lesions using the same imaging source, both the core needle biopsy and the imaging guidance are reported separately using <br />modifier 59. When FNA biopsy and core needle biopsies are performed during the same session on separate lesions using a different <br />imaging source, both the core needle biopsy and the imaging guidance are reported separately using modifier 59. Report 10004 in <br />addition to 10021; 10006 in addition to 10005; 10008 in addition to 10007; 10010 in addition to 10009; and 10012 in addition to <br />10011. Do not report 10004 or 10021 with 10005\u201310012. Imaging guidance codes 76942, 77002, 77012, and 77021 should not be <br />reported separately. For evaluation of fine needle aspirate, see 88172\u201388173 and 88177. For image-guided percutaneous fluid <br />collection drainage of soft tissue via catheter, see 10030.  Documentation Tip No Documentation Tip available for this code. <br />Reimbursement Tip No Reimbursement Tip available for this code.",
+ <br />   "lay_description": "Fine needle aspiration (FNA) is a diagnostic percutaneous procedure that uses a fine gauge needle (often <br />22 or 25 gauge) and a syringe to sample fluid from a cyst or remove clusters of cells from a solid mass. The skin is cleansed. If <br />a lump can be felt, the radiologist or surgeon guides a needle into the area by palpating the lump. If the lump is non-palpable, <br />the FNA procedure is performed using ultrasound, fluoroscopy, computed tomography (CT), or MR imaging with the patient positioned <br />according to the area of concern. Ultrasonography-guided aspiration biopsy involves inserting an aspiration catheter needle device <br />through the accessory channel port of the echoendoscope; the needle is placed into the area to be sampled under endoscopic <br />ultrasonographic guidance. After the needle is placed into the region of the lesion, a vacuum is created and multiple in and out <br />needle motions are performed. Several needle insertions are usually required to ensure that an adequate tissue sample is taken. In <br />fluoroscopic guidance, intermittent fluoroscopy guides the advancement of the needle. CT image guidance allows computer-assisted <br />targeting of the area to be sampled. At the completion of the procedure, the needle is withdrawn and a small bandage is placed over <br />the area. MR image guidance involves the use of a magnetic field, radiowaves, and computer-assisted targeting to identify the area <br />for biopsy without the use of ionizing radiation. Report 10021 for fine needle aspiration of the initial lesion performed without <br />imaging guidance; for each subsequent lesion, report 10004. Report 10005 for FNA of the first lesion using ultrasound guidance; <br />for each additional lesion, report 10006. Report 10007 for FNA of the first lesion using fluoroscopy; for each additional lesion, <br />report 10008. Report 10009 for FNA of the first lesion utilizing CT imaging; for each subsequent lesion, report 10010. Report <br />10011 when MR imaging is used for the initial lesion; for each additional lesion, report 10012.",
+<br />    "code_specific_reference_information": "AHA Coding Clinic References AMA CPT\u00ae Knowledge Base AMA CPT\u00ae Section <br />Guidelines Annotations Clinical Documentation Improvement Content Instructions Optum Specialty Articles Primary Px Total CPT\u00ae <br />ZHealth Publishing Interventional Radiology Coding Reference",
+<br />    "code_range_notes": "INCLUDES: Core needle biopsy, lung or mediastinum (32408) Percutaneous localization clip placement during <br />breast biopsy (19081-19086) Percutaneous needle biopsy:    Abdominal or retroperitoneal mass (49180)    Epididymis (54800)    <br />Kidney (50200)    Liver (47000-47001)    Lymph node (38505)    Muscle (20206)    Nucleus pulposus, paravertebral tissue, <br />intervertebral disc (62267)    Pancreas (48102)    Pleura (32400)    Prostate (55700, 55706)    Salivary gland (42400)    Spinal cord <br />(62269)    Testis (54500)    Thyroid (60100) Soft tissue percutaneous fluid drainage by catheter using image guidance (10030) <br />Thyroid cyst (60300)  EXCLUDES:  ",<br />
+    "code_notes": "  ",<br />
+    "code_history": "Change Effective Date:01/01/2019\nChange Summary:Officially recognized, Other, New",<br />
+    "emca_doc_id": "",<br />
+    "audr_doc_id": "506682",<br />
+    "modifiers": {<br />
+        "physician": [<br />
             "22",
             "23",
             "47",
@@ -69,8 +69,8 @@ Extracted code example:
             "GK",
             "GR",
             "GU"
-        ],
-        "facility_opps": [
+        ],<br />
+        "facility_opps": [<br />
             "59",
             "73",
             "74",
@@ -120,8 +120,8 @@ Extracted code example:
             "T8",
             "T9",
             "TA"
-        ],
-        "mpfs_medicare": [
+        ],<br />
+        "mpfs_medicare": [<br />
             "52",
             "58",
             "59",
@@ -136,10 +136,10 @@ Extracted code example:
             "XP",
             "XS",
             "XU"
-        ],
-        "dme_supply": [],
-        "ambulance": [],
-        "asc_modifier": [
+        ],<br />
+        "dme_supply": [],<br />
+        "ambulance": [],<br />
+        "asc_modifier": [<br />
             "59",
             "73",
             "74",
@@ -176,7 +176,7 @@ Extracted code example:
             "XE",
             "XP",
             "XS",
-            "XU"
-        ]
-    }
-}
+            "XU"<br />
+        ]<br />
+    }<br />
+}<br />
